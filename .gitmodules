@@ -2,3 +2,4 @@
 	path = libuiohook
 	url = https://github.com/ape-casear/libuiohook
 	ignore = dirty
+    branch = 1.1
