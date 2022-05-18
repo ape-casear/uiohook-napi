@@ -117,4 +117,4 @@ dist
 build
 prebuilds
 
-main.js
+package-lock.json
